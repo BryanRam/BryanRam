@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bradley-ramsay-5a0a77102" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/bryan_ram" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.fiverr.com/bradfromcg"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="https://www.fiverr.com/bradfromcg" target="blank"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
