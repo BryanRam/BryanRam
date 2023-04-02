@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bradley</h1>
 <h3 align="center">A passionate fullstack developer from Barbados currently residing in the UK. I have an indie business, Continental Games, where I solve software headaches and build out my own crazy ideas for games.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanram&label=Profile%20views&color=0e75b6&style=flat" alt="bryanram" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanram&label=Profile%20views&color=0e75b6&style=flat" alt="bryanram" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanram" alt="bryanram" /></a> </p>
 
