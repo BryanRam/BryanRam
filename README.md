@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanram" alt="bryanram" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **react, php, svelte, C#, UE4 or Unity**
 
