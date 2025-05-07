@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanram" alt="bryanram" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **react, php, svelte, C#, UE4 or Unity**
 
 - 📫 How to reach me **bryan_ram@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jheQirB-71YUp0548uaQSvZCS87T9gXJ/view?usp=share_link](https://drive.google.com/file/d/1jheQirB-71YUp0548uaQSvZCS87T9gXJ/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://bradleyramsay.vercel.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
